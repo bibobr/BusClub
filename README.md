@@ -8,4 +8,5 @@ Ao acessar o aplicativo o usuário tem a opção de procurar os ônibus em circu
 
 O código foi desenvolvido em Python usando a biblioteca gráfica Kivy e utilizando o banco de dados MySQL-Python.
 
+FUNCIONAMENTO DO APP NO VIDEO DO LINK ABAIXO
 [![Veja o video](https://i.ytimg.com/vi/WzYzEE9wbWc/hqdefault.jpg)](https://youtu.be/WzYzEE9wbWc)
